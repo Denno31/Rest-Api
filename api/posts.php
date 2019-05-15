@@ -25,4 +25,5 @@ if($method == 'GET'){
         echo json_encode(['message'=>'fill all fields', 'success'=>false]);
         
     }
+    
 }
